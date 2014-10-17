@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kma:home|Door43 (kma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kma|d43-kma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kma/archive/master.zip|d43-kma.zip]]
+
+**Recent Changes**
+{{changes>ns = kma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kma|Ethnologue data]]
+
